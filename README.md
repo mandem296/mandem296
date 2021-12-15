@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Artificial Neural Networks in Artificial Intelliegence
+- 🌱 I’m currently learning Artificial Neural Networks in Artificial Intelliegence and game development using OpenGL
+- ⚡ Fun fact: I am a 10x Fifa champion with a winning rate of 78%
 <!--
 **mandem296/mandem296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
