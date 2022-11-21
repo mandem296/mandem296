@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🌱 I’m currently learning Artificial Neural Networks in Artificial Intelliegence and game development using OpenGL
-- ⚡ Fun fact: I am a 10x Fifa champion with a winning rate of 78%
+- 🌱 I’m currently working on an NLP project using Bidirectional Encoder Representation from Transformers (BERT).
+- 🔥 I am also working to improve my python coding skills.
+- ⚡ Fun fact: I am a 10x Fifa champion with a winning rate of 90%
 <!--
 **mandem296/mandem296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
